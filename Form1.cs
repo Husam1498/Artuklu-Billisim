@@ -17,7 +17,9 @@ namespace Artuklu_Billisim
             textBox1.Text = "Merhaba, Mesajý buraya yazýn.";
             textBox1.Name = "dinamikTxt";
             textBox1.Font = new Font("Georgia", 16);
-
+            //klsjfdjksdnkjnkjds ksd 
+            //sovjfsdvs
+            dsncdsn
             Controls.Add(textBox1);
         }
     }
